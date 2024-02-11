@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPA.Selenium.Chrome", "RPA.Selenium.Chrome.csproj", "{93480CD2-5A10-486C-AAAA-49022A50CA22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyAutomation", "..\EasyAutomation\EasyAutomation.csproj", "{FD89FC13-2C7B-4A3B-BF4C-1471E34D0CF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotOCR", "..\BotOCR\BotOCR.csproj", "{4910FB49-7B26-4BFE-B5EB-AF4417588A52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotDeskTop", "..\BotDeskTop\BotDeskTop.csproj", "{53B02796-6858-4354-BA04-EC25053AD067}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotChatGPT", "..\..\..\..\Área de Trabalho\curso-rpa-completo-main\RobotChatGPT\RobotChatGPT.csproj", "{19633055-28B5-44E8-AD95-EE21EADE1E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93480CD2-5A10-486C-AAAA-49022A50CA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93480CD2-5A10-486C-AAAA-49022A50CA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93480CD2-5A10-486C-AAAA-49022A50CA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93480CD2-5A10-486C-AAAA-49022A50CA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD89FC13-2C7B-4A3B-BF4C-1471E34D0CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD89FC13-2C7B-4A3B-BF4C-1471E34D0CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD89FC13-2C7B-4A3B-BF4C-1471E34D0CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD89FC13-2C7B-4A3B-BF4C-1471E34D0CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4910FB49-7B26-4BFE-B5EB-AF4417588A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4910FB49-7B26-4BFE-B5EB-AF4417588A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4910FB49-7B26-4BFE-B5EB-AF4417588A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4910FB49-7B26-4BFE-B5EB-AF4417588A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B02796-6858-4354-BA04-EC25053AD067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B02796-6858-4354-BA04-EC25053AD067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B02796-6858-4354-BA04-EC25053AD067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B02796-6858-4354-BA04-EC25053AD067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19633055-28B5-44E8-AD95-EE21EADE1E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19633055-28B5-44E8-AD95-EE21EADE1E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19633055-28B5-44E8-AD95-EE21EADE1E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19633055-28B5-44E8-AD95-EE21EADE1E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311E051A-6D67-458D-85DE-8D663C2EE649}
+	EndGlobalSection
+EndGlobal

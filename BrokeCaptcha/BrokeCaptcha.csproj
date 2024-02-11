@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="2Captcha" Version="2.2.0" />
+    <PackageReference Include="Easy.Automation" Version="1.0.0.12" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="115.0.5790.10200" />
+  </ItemGroup>
+
+</Project>
